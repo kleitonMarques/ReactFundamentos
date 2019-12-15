@@ -12,7 +12,7 @@ export default props => {
 
     return (
         <ul>
-            {gerarItens(aprovados)}
+            {gerarItens(aprovados)} 
         </ul>
     )
 }
